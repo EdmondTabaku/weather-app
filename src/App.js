@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
 
 const api = {
   key:"51d0e1890d3e8d5cab40c4b54d96215a",
