@@ -112,3 +112,18 @@ main{
   font-weight: 700;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
+
+.tutorial{
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+}
+
+.tutorial-italic{
+  font-weight: 200;
+  font-style: italic;
+  font-size: 19px;
+}

@@ -73,7 +73,14 @@ function App() {
           </div>
 
         </div>
-        ) : ('')}
+        ) : (
+
+          <div>
+            <p className="tutorial">Search a place <p className="tutorial-italic">eg, Kucove or New York,</p> and see the real time weather</p>
+
+          </div>
+
+        )}
 
       </main>
       
